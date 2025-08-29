@@ -1,7 +1,7 @@
 menu:
 - {name: 'research', url: '/research'}
-- {name: 'courses', url: '/courses'}
 - {name: 'projects', url: '/projects'}
+- {name: 'courses', url: '/courses'}
 - {name: 'resume', url: '/resume'}
 - {name: 'contact', url: '/contact'}
 
