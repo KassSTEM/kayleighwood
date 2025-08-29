@@ -1,5 +1,5 @@
 featured:
-- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf'}
+- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf', info: 'Write a little bit about this project'}
 
 index:
-- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf'}
+- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf', info: 'Write a little bit about this project'}
