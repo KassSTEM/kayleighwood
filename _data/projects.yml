@@ -1,0 +1,5 @@
+featured:
+- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf'}
+
+index:
+- {name: 'Project Title', image: '/assets/img/[imgName]', url: '/projects/[name].pdf'}
