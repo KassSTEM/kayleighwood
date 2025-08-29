@@ -4,7 +4,7 @@
     {% if page.title == "Home" %}
       {% for item in site.data.research.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-        <img src="{{ item.image }}" alt="Poster" width="100%">
+        <img src="{{ site.github.url }}{{ item.image }}" alt="Poster" width="100%">
       {% endfor %}
     {% else %}
       {% for item in site.data.research.index %}
