@@ -9,6 +9,7 @@
     {% else %}
       {% for item in site.data.projects.index %}
          <p><a href="{{ site.github.url }}/{{ item.url }}" download="download">{{ item.name }}</a></p>
+        <p>{{ item.info }}</p>
         <img src="{{ site.github.url }}{{ item.image }}" alt="Project" width="100%">
       {% endfor %}
     {% endif %}
